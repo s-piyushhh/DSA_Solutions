@@ -1,7 +1,7 @@
 # DSA_Solutions
 
 # Problem Count:
-#Total count : 4
+#Total count : 5
 
-#Binary Search: 3 <br>
+#Binary Search: 4 <br>
 #Stack : 1
