@@ -5,4 +5,4 @@
 
 #Binary Search:  <br>
 #Stack : 1 <br>
-#Hash Table : 1
+#Hash Table : 1 <br>
