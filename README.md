@@ -1,9 +1,9 @@
 # DSA_Solutions
 
 # Problem Count:
-#Total count : 11
+#Total count : 14
 
-#Array: 3 <br>
+#Array: 6 <br>
 #Binary Search:  5<br>
 #Stack : 1 <br>
 #Hash Table : 2 <br>
