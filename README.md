@@ -9,4 +9,4 @@
 #Hash Table : 2 <br>
 #Recursion : 1 <br>
 #DP : 1 <br>
-#Linked List: 3 <br>
+#Linked List: 4 <br>
