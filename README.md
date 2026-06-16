@@ -1,12 +1,13 @@
 # DSA_Solutions
 
 # Problem Count:
-#Total count : 26
+#Total count : 34  
 
-#Array: 10 <br>
+#Array: 11 <br>
 #Binary Search:  5<br>
-#Stack : 1 <br>
-#Hash Table : 2 <br>
-#Recursion : 1 <br>
 #DP : 1 <br>
-#Linked List: 6 <br>
+#Greedy : 4 <br>
+#Hash Table : 2 <br>
+#Linked List: 7 <br>
+#Recursion : 3 <br>
+#Stack : 1 <br>
