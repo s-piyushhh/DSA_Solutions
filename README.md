@@ -1,10 +1,10 @@
 # DSA_Solutions
 
 # Problem Count:
-#Total count : 39
+#Total count : 40
 
 #Array: 11 <br>
-#Binary Search:  6<br>
+#Binary Search:  7<br>
 #DP : 1 <br>
 #Greedy : 4 <br>
 #Hash Table : 2 <br>
