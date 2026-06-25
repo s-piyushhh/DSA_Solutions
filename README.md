@@ -37,6 +37,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/s-piyushhh/DSA_Solutions/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/s-piyushhh/DSA_Solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/s-piyushhh/DSA_Solutions/tree/master/0232-implement-queue-using-stacks) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/s-piyushhh/DSA_Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
