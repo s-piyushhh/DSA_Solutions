@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/s-piyushhh/DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/s-piyushhh/DSA_Solutions/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/s-piyushhh/DSA_Solutions/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/s-piyushhh/DSA_Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/s-piyushhh/DSA_Solutions/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -51,4 +53,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/s-piyushhh/DSA_Solutions/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/s-piyushhh/DSA_Solutions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/s-piyushhh/DSA_Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
