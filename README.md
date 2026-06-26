@@ -1,7 +1,7 @@
 # DSA_Solutions
 
 # Problem Count Manual Push:
-#Total count : 42
+#Total count : 43
 
 #Array: 11 <br>
 #Binary Search:  8<br>
@@ -11,7 +11,7 @@
 #Linked List: 7 <br>
 #Recursion : 4 <br>
     #BackTracking : 3<br>
-#Stack : 2 <br>
+#Stack : 3 <br>
 <!---LeetCode Topics Start-->
 
 
