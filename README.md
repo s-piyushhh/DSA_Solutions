@@ -1,7 +1,7 @@
 # DSA_Solutions
 
 # Problem Count Manual Push:
-#Total count : 52
+#Total count : 53
 
 #Array: 13 <br>
 #Binary Search:  8<br>
@@ -9,6 +9,8 @@
 #Greedy : 4 <br>
 #Hash Table : 2 <br>
 #Linked List: 7 <br>
+#Operations: 1 <br>
+#Queue : 2 <br>
 #Recursion : 4 <br>
     #BackTracking : 3<br>
 #Stack : 3 <br>
