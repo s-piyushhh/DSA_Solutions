@@ -1,9 +1,9 @@
 # DSA_Solutions
 
 # Problem Count Manual Push:
-#Total count : 53
+#Total count : 54
 
-#Array: 13 <br>
+#Array: 14 <br>
 #Binary Search:  8<br>
 #DP : 1 <br>
 #Greedy : 4 <br>
