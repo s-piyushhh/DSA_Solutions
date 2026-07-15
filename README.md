@@ -1,20 +1,24 @@
 # DSA_Solutions
 
 # Problem Count Manual Push:
-#Total count : 54
+#Total count : 63
 
-#Array: 14 <br>
+#Array: 15 + 1 + 1 + 1 = 18 <br>
+    #MergeIntervals: 1 <br>
+    #PrefixSum: 1 <br>
+    #SlidingWindow: 1 <br>
 #Binary Search:  8<br>
 #DP : 1 <br>
 #Greedy : 4 <br>
 #Hash Table : 2 <br>
 #Linked List: 7 <br>
+#Math : 2 <br>
 #Operations: 1 <br>
 #Queue : 2 <br>
-#Recursion : 4 <br>
+#Recursion : 4 + 3 = 7 <br>
     #BackTracking : 3<br>
 #Stack : 3 <br>
-#String: 6 <br>
+#String: 7 <br>
 #Tree: 1 <br>
 <!---LeetCode Topics Start-->
 
