@@ -1,7 +1,7 @@
 # DSA_Solutions
 
 # Problem Count Manual Push:
-#Total count : 75
+#Total count : 76
 
 #Array: 17 + 1 + 4 + 2 = 25br>
     #MergeIntervals: 1 <br>
@@ -18,7 +18,7 @@
 #Recursion : 4 + 3 = 7 <br>
     #BackTracking : 3<br>
 #Stack : 3 <br>
-#String: 7 <br>
+#String: 8 <br>
 #Tree: 1 <br>
 <!---LeetCode Topics Start-->
 
