@@ -1,7 +1,7 @@
 # DSA_Solutions
 
 # Problem Count Manual Push:
-#Total count : 87
+#Total count : 88
 
 #Array: 17 + 1 + 4 + 2 = 25br>
     #MergeIntervals: 1 <br>
