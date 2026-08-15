@@ -1,11 +1,11 @@
 # DSA_Solutions
 
 # Problem Count Manual Push:
-#Total count : 90
+#Total count : 91
 
-#Array: 17 + 1 + 4 + 2 = 25br>
+#Array: 17 + 1 + 5 + 2 = 26br>
     #MergeIntervals: 1 <br>
-    #PrefixSum: 4 <br>
+    #PrefixSum: 5 <br>
     #SlidingWindow: 2 <br>
 #Binary Search:  9<br>
 #DP : 10 <br>
