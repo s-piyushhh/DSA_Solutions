@@ -1,7 +1,7 @@
 # DSA_Solutions
 
 # Problem Count Manual Push:
-#Total count : 91
+#Total count : 92
 
 #Array: 17 + 1 + 5 + 2 = 26br>
     #MergeIntervals: 1 <br>
@@ -12,7 +12,7 @@
 #Greedy : 4 <br>
 #Hash Table : 2 <br>
 #Linked List: 7 <br>
-#Math : 6 <br>
+#Math : 7 <br>
 #Operations: 1 <br>
 #Queue : 2 <br>
 #Recursion : 4 + 3 = 7 <br>
