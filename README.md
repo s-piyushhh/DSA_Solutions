@@ -1,7 +1,7 @@
 # DSA_Solutions
 
 # Problem Count Manual Push:
-#Total count : 96
+#Total count : 97
 
 #Array: 18 + 1 + 5 + 2 = 27br>
     #MergeIntervals: 1 <br>
@@ -10,7 +10,7 @@
 #Binary Search:  9<br>
 #DP : 12 <br>
 #Greedy : 4 <br>
-#Hash Table : 3 <br>
+#Hash Table : 4 <br>
 #Linked List: 7 <br>
 #Math : 7 <br>
 #Operations: 1 <br>
