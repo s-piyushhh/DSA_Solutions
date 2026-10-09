@@ -1,7 +1,7 @@
 # DSA_Solutions
 
 # Problem Count Manual Push:
-#Total count : 132
+#Total count : 133
 
 #Array: 19 + 1 + 6 + 3 = 31br>
     #MergeIntervals: 1 <br>
@@ -18,5 +18,5 @@
 #Recursion : 4 + 3 = 7 <br>
     #BackTracking : 3<br>
 #Stack : 3 <br>
-#String: 26 <br>
+#String: 27 <br>
 #Tree: 1 <br>
