@@ -1,9 +1,9 @@
 # DSA_Solutions
 
 # Problem Count Manual Push:
-#Total count : 139
+#Total count : 140
 
-#Array: 20 + 1 + 6 + 3 = 33br>
+#Array: 21 + 1 + 6 + 3 = 34br>
     #MergeIntervals: 1 <br>
     #PrefixSum: 6 <br>
     #SlidingWindow: 3 <br>
